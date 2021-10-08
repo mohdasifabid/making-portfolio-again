@@ -93,3 +93,62 @@ body {
   text-decoration: none;
   margin-right: 10px;
 }
+
+#sec-phd {
+  display: block;
+  background-color: #fdf2f8;
+  padding: 4px;
+  border-radius: 1rem;
+  margin-top: 10px;
+}
+
+#phd-heading {
+  text-align: center;
+}
+
+#sec-ma {
+  display: block;
+  background-color: #fdf2f8;
+  padding: 4px;
+  border-radius: 1rem;
+  margin-top: 10px;
+}
+
+#ma-heading {
+  text-align: center;
+}
+
+#sec-ba {
+  display: block;
+  background-color: #fdf2f8;
+  padding: 4px;
+  border-radius: 1rem;
+  margin-top: 10px;
+}
+
+#ba-heading {
+  text-align: center;
+}
+#sec-schooling {
+  display: block;
+  background-color: #fdf2f8;
+  padding: 4px;
+  border-radius: 1rem;
+  margin-top: 10px;
+}
+
+#schooling-heading {
+  text-align: center;
+}
+
+#sec-other {
+  display: block;
+  background-color: #fdf2f8;
+  padding: 4px;
+  border-radius: 1rem;
+  margin-top: 10px;
+}
+
+#other-heading {
+  text-align: center;
+}
