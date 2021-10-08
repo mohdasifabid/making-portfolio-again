@@ -1,0 +1,95 @@
+body {
+  margin-left: 50px;
+  margin-right: 50px;
+}
+#header {
+  background-color: #f9a8d4;
+  padding: 5px;
+  border-bottom-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+#header-title {
+  margin-left: 30px;
+}
+
+#header-nav {
+  text-align-last: right;
+  margin-right: 30px;
+  margin-bottom: 10px;
+}
+
+.head-nav {
+  text-decoration: none;
+}
+
+#image {
+  width: 100%;
+  height: auto;
+}
+
+#sec-intro {
+  display: block;
+  background-color: #fdf2f8;
+  padding: 4px;
+  border-radius: 1rem;
+}
+
+#intro-heading {
+  text-align: center;
+}
+
+#sec-edu {
+  display: block;
+  background-color: #fdf2f8;
+  padding: 4px;
+  border-radius: 1rem;
+  margin-top: 10px;
+}
+
+#edu-title {
+  text-align: center;
+}
+
+#edu-link {
+  text-decoration: none;
+  background-color: #f9a8d4;
+  padding: 8px;
+  border-radius: 5px;
+  margin-left: 45%;
+}
+
+#sec-work {
+  display: block;
+  background-color: #fdf2f8;
+  padding: 4px;
+  border-radius: 1rem;
+  margin-top: 10px;
+}
+
+#work-title {
+  text-align: center;
+}
+
+#work-link {
+  text-decoration: none;
+  background-color: #f9a8d4;
+  padding: 8px;
+  border-radius: 5px;
+  margin-left: 45%;
+}
+
+#nav-footer {
+  background-color: #f9a8d4;
+  padding: 10px;
+  border-bottom-left-radius: 10px;
+  border-top-right-radius: 10px;
+  margin-top: 20px;
+  margin-bottom: 0%;
+  text-align: center;
+}
+
+.footer-nav {
+  text-decoration: none;
+  margin-right: 10px;
+}
